@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  background-color: #a90a0a;    /* achtergrondkleur lichtgrijs */
+  color: #fffafa;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -47,21 +47,26 @@ p {
 
 .kolomLinks {
   float:left;
-  width:250px;
+ 
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
-  float:left;
-  width: 450px;
+  float:right;
 }
 .kolomStop {
   clear:both;                   /* stop met floaten */
+}
+.plaatje {
+   width:250px;
+}
+.tekst{
+    width: 450px;
 }
 
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: skyblue;
+      color: #cfafaf;
 }
 
 .smalltext {
@@ -70,7 +75,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: skyblue;
+    color: #c31d1d;
     text-decoration: none;
 }
 
@@ -84,7 +89,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #ffffff;
     overflow: hidden;
 }
 
@@ -94,16 +99,16 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #ffffff;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: #05702b;
 }
