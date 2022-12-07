@@ -64,7 +64,16 @@ p {
 }
 
 /* Opmaak voor alle pagina's */
-
+body {
+  background-image: url("afbeeldingen/liverpool-fc.jpeg"); 
+  background-position: center;
+  background-repeat: repeat;
+}
+p {
+  background-color:rgba(0,0,0,0.5);
+  padding:10px;
+  
+}
 h1, h2, h3 {
       color: #cfafaf;
 }

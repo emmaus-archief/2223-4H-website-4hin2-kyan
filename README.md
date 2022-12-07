@@ -33,7 +33,7 @@ Aan het einde van stap 2 heb je een werkend menu met minimaal vier lege subpagin
 
 ### Stap 3: Indeling en opmaak hoofdpagina
 - [x] Je hebt de indeling (lay-out in het Engels, dat is de plek waar elk onderdeel van je pagina op het scherm komt) van je hoofdpagina gekozen.
-- [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
+- [x] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
 - [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
 - [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven. De tekst en de plaatjes zijn nog niet ingevuld, daarvoor gebruik je tijdelijk een willekeurige tekst of plaatjes zoals in de voorbeeldsite.
 - [ ] Je hebt opmaak zoals kleuren, lettertypen en kaders in css toegevoegd aan de onderdelen in je layout.
