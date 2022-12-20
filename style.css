@@ -68,6 +68,7 @@ body {
   background-image: url("afbeeldingen/liverpool-fc.jpeg"); 
   background-position: center;
   background-repeat: repeat;
+  background-color: rgba();
 }
 p {
   background-color:rgba(0,0,0,0.5);
