@@ -109,16 +109,33 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: black;
+    color: #212121;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #ffffff;
+    background-color: #006614;
 }
 
 nav li a.active {
     background-color: #05702b;
+}
+
+.speler-plaatje {
+  height:250px;
+  margin:8px;
+  float:left;
+}
+.speler-tekst{
+  width:430px;
+  padding:10px;
+  float:right;
+  
+}
+
+.spelers-box{
+  border:solid 2px white;
+  
 }
