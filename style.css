@@ -137,5 +137,5 @@ nav li a.active {
 
 .spelers-box{
   border:solid 2px white;
-  
+  height:fit-content;
 }
