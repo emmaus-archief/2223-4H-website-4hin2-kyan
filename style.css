@@ -65,7 +65,7 @@ p {
 
 /* Opmaak voor alle pagina's */
 body {
-  background-image: url("afbeeldingen/liverpool-fc.jpeg"); 
+  background-image: url("afbeeldingen/liverpool-fc.jpeg");
   background-position: center;
   background-repeat: repeat;
   background-color: rgba();
@@ -136,6 +136,22 @@ nav li a.active {
 }
 
 .spelers-box{
-  border:solid 2px white;
+  border:solid 1px white;
   height:fit-content;
+
+}
+
+.bekers-plaatje{
+  height: 185px;
+  width: 300px;
+  float:right;
+  margin: 8px;
+}
+
+
+
+.bekers-tekst{
+  width:430px;
+  padding:10px;
+  float: left;
 }
